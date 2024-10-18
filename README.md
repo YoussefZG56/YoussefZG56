@@ -21,10 +21,13 @@ Infrastructure:
   - Linux
   - Active Directory
   - VoIP SIP
+  - Cisco
   
 Cloud & Conteneurisation:
   - AWS
   - Docker
+  - Ansible
+  - Kubernites
 
 Scripting & Automatisation:
   - PowerShell
