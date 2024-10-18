@@ -2,7 +2,7 @@
 
 ## 🚀 Ingénieur DevOps | 22 ans d'expérience IT | Passionné d'automatisation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([votre-lien-linkedin](https://www.linkedin.com/in/youssef-el-ouargui-5257b817b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-el-ouargui-5257b817b/)
 
 Passionné par l'informatique depuis l'époque de Windows 98, j'ai forgé mon expertise à travers plus de deux décennies d'expérience en tant que technicien informatique. Aujourd'hui, je me concentre sur l'ingénierie DevOps, combinant mon expertise système avec les pratiques modernes d'automatisation et de déploiement continu.
 
